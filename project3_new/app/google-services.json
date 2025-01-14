@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1094486423937",
+    "firebase_url": "https://tesst-7220a-default-rtdb.firebaseio.com",
+    "project_id": "tesst-7220a",
+    "storage_bucket": "tesst-7220a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094486423937:android:a43c71405b0e2846125080",
+        "android_client_info": {
+          "package_name": "com.example.project_3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3uPWkNowvql4-tITWOnNcBnyylrKMeHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
